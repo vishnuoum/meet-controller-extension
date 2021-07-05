@@ -1,0 +1,36 @@
+body {
+    padding: 5px;
+}
+
+
+input[type="range"] {
+    color: #007bff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+}
+
+#div{
+    display: flex;
+    align-items: center;
+}
+
+button{
+    background-color: #007bff;
+    color:white;
+    border:none;
+    border-radius: 0px;
+    padding: 10px;
+}
+
+button:hover{
+    background-color: #0065d1;
+}
+
+#b1{
+    border-radius: 5px 0px 0px 5px;
+}
+
+#b4{
+    border-radius: 0px 5px 5px 0px;
+}
